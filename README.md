@@ -1,7 +1,11 @@
-Estudiante de DAW | Web & Data-Oriented Developer
+Estudiante de DAW | Web & Data-Oriented Developer.
+________________________________________
+________________________________________
+
 Hola, soy estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en JavaScript, React y consumo de datos.
 Interesado en APIs, visualización, estadísticas y aplicaciones basadas en datos.
-En mi repositorio encontrarás mucho material de aprendizaje y algún micro-proyecto que he elaborado en mis sesiones de auto-aprendizaje, están dispuestos para que algún día puedan ser explotados 💥 al 💯🚀
+En mi repositorio encontrarás mucho material de aprendizaje y algún micro-proyecto que he elaborado en mis sesiones de auto-aprendizaje, 
+están dispuestos para que algún día puedan ser explotados 💥 al 💯🚀
 ________________________________________
 📊 Tecnologías clave
 •	Frontend		=> JavaScript (ES6+), React, HTML, CSS
