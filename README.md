@@ -1,42 +1,59 @@
-Estudiante de DAW | Web & Data-Oriented Developer.
+// =====================================================
+//    Estudiante DAW | Web & Data-Oriented Developer
+// =====================================================
 
+const profile = {
+  role: "Estudiante de Desarrollo de Aplicaciones Web (DAW)",
+  focus: ["JavaScript", "React", "Consumo de Datos"],
+  interests: ["APIs", "Visualización", "Estadísticas", "Aplicaciones Data-Driven"]
+};
 
-Hola, soy estudiante de Desarrollo de Aplicaciones Web (DAW) con enfoque en JavaScript, React y consumo de datos.
-Interesado en APIs, visualización, estadísticas y aplicaciones basadas en datos.
+Hola 👋  
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en **JavaScript y React**, orientado al consumo, tratamiento y visualización de datos.
 
-En mi repositorio encontrarás mucho material de aprendizaje y algún micro-proyecto que he elaborado en mis sesiones de auto-aprendizaje, 
-están dispuestos para que algún día puedan ser explotados 💥 al 💯🚀
-________________________________________
-📊 Tecnologías clave
+En este repositorio encontrarás **material de aprendizaje** y **micro-proyectos** desarrollados durante sesiones de **auto-aprendizaje**, pensados para evolucionar y poder ser explotados al 💯💥🚀
 
-•	Frontend		=> JavaScript (ES6+), React, HTML, CSS
+---
 
-•	Datos			=> Consumo de APIs REST, JSON, CRUD
+## 📊 Tech Stack
+const techStack = {
+  frontend: ["JavaScript (ES6+)", "React", "HTML5", "CSS3"],
+  data: ["REST APIs", "JSON", "CRUD"],
+  backend: ["PHP", "MySQL"],
+  tools: ["Git", "GitHub"]
+};
 
-•	Backend 		=> PHP, MySQL
+📈 Current Focus
+const currentFocus = [
+  "Integración y consumo de APIs públicas",
+  "Proyectos orientados a datos y estadísticas",
+  "Visualización básica de información",
+  "Buenas prácticas en JavaScript y React"
+];
 
-•	Herramientas 	=> Git, GitHub
+🔗 Featured Projects
+const projectsTop = [
+  "📌 Pokédex con PokéAPI (React + Fetch)",
+  "📌 CRUDs sencillos orientados a datos",
+  "📌 Proyectos académicos DAW"
+];
+Explora mis repositorios para ver código, evolución y aprendizaje continuo.
 
-________________________________________
-📈 Enfoque actual
+🎯 Career Goal
 
-•	Integración y consumo de APIs públicas
+const goal = `
+Desarrollarme como Frontend / Web Developer orientado a datos,
+participando en proyectos donde el uso, análisis y visualización
+de información sea un elemento clave.
+`;
 
-•	Proyectos con datos y estadísticas
+📊 GitHub Stats
+/*
+Filosofía:
 
-•	Visualización básica de información
+Aprender haciendo
 
-•	Buenas prácticas en JavaScript y React
-________________________________________
-🔗 Proyectos destacados
+Mejorar en cada commit
 
-•	📌 Pokédex con PokéAPI (React + Fetch)
-
-•	📌 CRUDs sencillos orientados a datos
-
-•	📌 Proyectos académicos DAW
-________________________________________
-
-🎯 Objetivo
-
-Desarrollarme como Frontend / Web Developer orientado a datos, participando en proyectos donde el uso, análisis y visualización de información sea clave.
+Pensar en datos
+*/
